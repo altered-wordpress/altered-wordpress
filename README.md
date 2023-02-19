@@ -24,6 +24,7 @@ As a passionate team of developers, we will strive to build a Wordpress that lis
 - Communities to ask for help.
 - Many free & paid themes, plugins and tutorials.
 - People can contribute to translating a theme or plugin.
+- And etc.
 
 ## Let's Build What?
 
