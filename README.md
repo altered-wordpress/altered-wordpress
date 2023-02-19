@@ -41,3 +41,7 @@
 - Allow users to be able to disable and completely hide a feature that they don't need. for example, a user may like to not have the post post-type, so make it possible to get rid of it.
 - Allow shit ton of customization options for administration UI.
 - Create a community on Telegram and Discord and maybe slack.
+
+## Attention
+
+Altered Wordpress is not [Wordpress](http://wordpress.org).
