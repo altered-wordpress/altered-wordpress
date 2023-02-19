@@ -1,4 +1,4 @@
-# Creating an alternative to Wordpress
+# Altered Wordpress (Creating an Alternative to Wordpress)
 
 ![altered-wordpress-github-banner-min](https://user-images.githubusercontent.com/44144724/219922313-9c68f3dc-c036-4fbb-aeb6-7c7b9d818274.png)
 
