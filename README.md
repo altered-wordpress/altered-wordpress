@@ -15,9 +15,9 @@
 
 - Open-source.
 - Community and resources:
-- - Communities to ask for help.
-- - Many free & paid tutorials.
-- - Many free & paid themes and plugins.
+- Communities to ask for help.
+- Many free & paid tutorials.
+- Many free & paid themes and plugins.
 - Easy to get started.
 - People can contribute to translating a theme or plugin.
 
